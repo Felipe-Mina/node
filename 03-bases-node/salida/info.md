@@ -1,0 +1,1 @@
+En esta carpeta se crearan los archivos .txt con las tablas resultantes
